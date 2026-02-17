@@ -2,7 +2,7 @@
   "name": "nrf24",
   "description": "Basic nRF24L01 blocks for micro:bit (simple init/send/receive).",
   "dependencies": {
-    "core": "file:../pxt-core"
+    "core": "pxt-core"
   },
   "files": [
     "main.ts"
